@@ -1,0 +1,9 @@
+7802af9521cf189086c4f6619203b15f readme.txt
+a7c2076232e8a10e575ea012cfe58f96 src/Pipfile
+0b55a9e5d69544b10febf45c778c6cc5 src/Pipfile.lock
+6c16e84589d58c735f843475a25b04b8 src/data/logo.txt
+0e81307ecf654fe943be059c61a78dd2 src/data/version
+9dad84c28d6421ee11c72ea5f3b04cb5 src/integrity.py
+85044e8c8b12f453362b19bbb918df9e src/main.py
+fc8922b68e44d5c09dc8ac8345de5f13 src/updater.py
+5f8e858b8fd10033b30e609a386c8526 start.bat
