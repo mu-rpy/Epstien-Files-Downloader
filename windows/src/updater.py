@@ -55,7 +55,7 @@ exit
 
 if __name__ == "__main__":
     owner = "da036b97b7c705909d6ffbd2e3349128"
-    repo = "Epstien-Files-Downloader"
+    repo = "Epstein-Files-Downloader"
     
     local_v = get_local_version()
     latest_v, download_url = check_latest_release(owner, repo)
