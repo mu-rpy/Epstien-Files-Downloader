@@ -1,0 +1,9 @@
+a68750c78c6d569ae25b7bde9b72ab60 readme.txt
+a7c2076232e8a10e575ea012cfe58f96 src/Pipfile
+0b55a9e5d69544b10febf45c778c6cc5 src/Pipfile.lock
+b53b9525b3fb99169b5ab4ec6a8d3fb4 src/data/logo.txt
+551ba01d214a2b049821e1417b681ff5 src/data/version
+9d2527d26fe83f801850664867f52ba4 src/integrity.py
+39f1a1907d52d7c9dad20b9141ef4f14 src/main.py
+b4a83fe0b76e482012049f876761d810 src/updater.py
+6d0b51564964e7a4c041f73f82af4699 start.sh
