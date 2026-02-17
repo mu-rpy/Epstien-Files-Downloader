@@ -16,10 +16,6 @@ Epstein Files Downloader is a specialized utility for scraping and organizing DO
 2. Open terminal inside directory of **linux** folder.
 3. Run `chmod +x start.sh && ./start.sh`
 
-
-## Features
-* Pretty damn self explanatory.
-
 ---
 
 [License](LICENSE)
